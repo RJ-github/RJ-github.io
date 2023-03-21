@@ -103,6 +103,8 @@ p {
 .header{
   padding-left: 200px;
   padding-right: 200px;
+  padding-top: 70px;
+  margin-top: -70px;
   color:rgb(31, 19, 0);
 }
 
