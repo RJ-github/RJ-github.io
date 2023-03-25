@@ -11,9 +11,11 @@ body {
 .Title-credits {
   display: flex;
   flex-direction: column;
+  padding-top: 30px;
 }
 
 .image {
+  width: auto;
   margin: 0;
   padding: 0;
 }
